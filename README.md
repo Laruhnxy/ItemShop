@@ -1,6 +1,6 @@
-CID_258_Athena_Commando_F_FuzzyBearHalloween, 1500
-CID_249_Athena_Commando_F_BlackWidow, 2000
-CID_246_Athena_Commando_F_Grave, 1200
+CID_760_Athena_Commando_F_NeonTightSuit, 2000
+ Pickaxe_ID_294_CandyCane, 1500
+CID_757_Athena_Commando_F_WildCat, 10000
 na
 na
 na
